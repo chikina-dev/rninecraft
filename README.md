@@ -1,4 +1,4 @@
-# Infinity Slayer
+# rninecraft
 
 ## ゲーム概要
 
