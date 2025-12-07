@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: "/infinity-slayer/",
+  base: "/rninecraft/",
   esbuild: {
     jsxImportSource: '@jsx-dom',
   },
